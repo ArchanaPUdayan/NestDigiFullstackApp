@@ -1,6 +1,7 @@
 package com.example.nestdigiFullApp.Controller;
 
 import com.example.nestdigiFullApp.Model.Employee;
+import com.example.nestdigiFullApp.dao.EmployeeDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;
